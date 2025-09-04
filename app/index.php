@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="">
 </head>
 <body>
-    <form method="get">
+    <form method="get"> 
         <input type="text" name="categoria" placeholder="Ingrese categoría">
         <input type="submit" value="Filtrar">
     </form>
