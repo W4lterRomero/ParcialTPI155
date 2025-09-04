@@ -1,5 +1,7 @@
 docker build -t rh23015 .
 
+ESTO ES PARA LINUX:
+
 docker run -d --rm --name rh23015-container-server -p
  8080:80 -v "${PWD}/app:/var/www/html"
 

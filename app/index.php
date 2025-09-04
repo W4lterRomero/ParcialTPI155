@@ -17,6 +17,11 @@
     <title>Document</title>
     <link rel="stylesheet" href="">
 </head>
+
+<header>
+    <a href="conversor.php">COnversor</a>
+    <a href="tercerejercicio.php">Tercer ejercicio</a>
+</header>
 <body>
     <form method="get"> 
         <input type="text" name="categoria" placeholder="Ingrese categoría">
